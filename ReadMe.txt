@@ -1,1 +1,1 @@
-file:///C:/Users/User/OneDrive/Рабочий%20стол/учеба/практика/index.html
+https://github.com/PUTRONA/PUTR/blob/main/index.html
